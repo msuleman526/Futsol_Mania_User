@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48160595211",
+    "firebase_url": "https://fusole-mania-project.firebaseio.com",
+    "project_id": "fusole-mania-project",
+    "storage_bucket": "fusole-mania-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48160595211:android:170ffac89ddd9a29db560e",
+        "android_client_info": {
+          "package_name": "com.futsolmania.futsol_mania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48160595211-i5loji5fbisbbl6tkbvbrnqip31e6rbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.futsolmania.futsol_mania",
+            "certificate_hash": "eacdde3eabb148a2ff7e7f91dce7312bbe2d9d2a"
+          }
+        },
+        {
+          "client_id": "48160595211-1hanob18b2q3efcvcm3sdqpgod5mu580.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPmOK1mTSfa2MExaX_MCOA7-QJEeHOqRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48160595211-1hanob18b2q3efcvcm3sdqpgod5mu580.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48160595211-1sr11pa4heibkuv6ah5i294tmlp9cjid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.project.futsolmaniaproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
